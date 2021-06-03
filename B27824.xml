@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Papists plot of firing discovered, in a perfect account of the late fire in Fetter-Lane, London, the tenth day of April last whereby it plainly appears who are the instruments of this work : as also the rewards they are to have, and what would be the dismal effects if this firing trade had gone on : published by way of caution to all masters of families to beware what servants they entertain into their houses.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27824</idno><idno type="EEBO-CITATION">12921249</idno>
+  <idno type="VID">200400</idno>
+  <idno type="EEBO-PROQUEST">2248540464</idno>
+  
+            <idno type="STC">Wing P318</idno>
+            <idno type="OCLC">12921249</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200400)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 990:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Papists plot of firing discovered, in a perfect account of the late fire in Fetter-Lane, London, the tenth day of April last whereby it plainly appears who are the instruments of this work : as also the rewards they are to have, and what would be the dismal effects if this firing trade had gone on : published by way of caution to all masters of families to beware what servants they entertain into their houses.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Anti-Catholicism --  Great Britain.</term>
+               <term type="topical_term">Popish Plot, 1678.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:200400:1"/>
+            <pb facs="tcp:200400:1"/>
+            <p> THE PAPISTS PLOT OF FIRING DISCOVERED, IN A Perfect Account of the late <hi>FIRE</hi> IN <hi>Fetter-Lane,</hi> London, The Tenth Day of <hi>April</hi> last.</p>
+            <p>Whereby it plainly appears who are the Instruments of this Work; As also the Rewards they are to have; And what would be the DISMAL EFFECTS if this <hi>Firing Trade</hi> had gone on.</p>
+            <p>Published by way of Caution to all Masters of Families to beware what Servants they enrertain into their Houses.</p>
+            <q>
+               <bibl>Rom. 3</bibl>
+               <p>15 <hi>Their Feet are swift to shed blood.</hi>
+               </p>
+               <p>16, <hi>Destruction and misery or<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in their ways.</hi>
+               </p>
+               <p>17, <hi>And the way of Truth th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y have not known.</hi>
+               </p>
+               <p>18. <hi>There is no fear of God before their Eys.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A. B.</hi> 1679.</p>
+            <pb facs="tcp:200400:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="narrative">
+            <pb n="1" facs="tcp:200400:2"/>
+            <head>THE PAPISTS PLOT OF FIRING DISCOVERED;</head>
+            <head type="sub">
+               <hi>In a Perfect Account of the late FIRE in</hi> FETTER-LANE.</head>
+            <p>MR. <hi>ROBERT BIRD,</hi> whose House it was that was set on Fire, informed, That his Wife retained one <hi>Elizabeth Oxley</hi> to be her Servant (supposing her to be a Protestant) upon Mon<g ref="char:EOLhyphen"/>day the 24th. of <hi>February</hi> last, but she came not to her Ser<g ref="char:EOLhyphen"/>vice until the 6th. of <hi>March</hi> after. That upon Wednesday night the 9th. of <hi>April,</hi> about two or three of the Clock in the morning, the said Servant came to his Bed-side and awaked him, telling him <hi>There was a Fire in Halborn:</hi> Whereupon he asked her, How she knew it? she answered, By the noise in the Street. Whereupon he arose, and look'd into the Street, but there was little noise or light; so he
+<pb n="2" facs="tcp:200400:3"/> staid at his Street-door, until he was informed by two men that passed by, that there had been a Fire, but it was put out again: whereupon he returned to Bed, well pleased he had so watchful a Servant, and fearful of Fire: But none of his Family heard any thing thereof, until informed by the said <hi>Oxley,</hi> as he believeth. That on Thursday the 10th. of <hi>April</hi> he was told, the said <hi>Oxley</hi> went not up to Bed till about 11 a Clock: That before he went to Bed, he looked to the doors, windows, and rooms, to s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e if all were safe from Fire and Thieves, (as his custom was) and was the last up in the Family, as he thought. That being in Bed and asleep, about 12 of the Clock that night he was awaked, with a great beating at the door by the Watch, and the said <hi>Oxley</hi> coming immediately to him, told him <hi>There was a Fire:</hi> To which he said, He was sure it was not in his House, but gave her the Key of the Street-door; who ran down, and let in the Watch and Company; and he coming down, found a large Press in his Closet (for keeping Books, Papers and Writings) on a light Fire, but by the mercy of God, and the great help he had, the Fire was put out, and his House preserv'd. That his Wife with some Neighbours immediatly going to the said <hi>Oxley</hi>'s Lodging Room to see if all was safe, found that she had packed up her Clothes and things ready to carry away, and her Trunks Lockt up, but nothing left in them of value: Whereupon he demanded of the said <hi>Oxley</hi> why she had packed up her Cloths? She answered, that she and his other Maid <hi>Martha</hi> had packed up her things to save them. Then he asked the said <hi>Martha</hi> why she had packed up in that time, when the Lives of the Children and Family were in that danger; who positively denyed that she pack<g ref="char:EOLhyphen"/>ed up any thing: Whereupon, and for that he was sure when he went to Bed there was no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a spark of Fire in the Closet, and considering that the said <hi>Oxley</hi> at the first knocking at the door, though she lay two pair of Stairs
+<pb n="3" facs="tcp:200400:3"/> above his Chamber; and being informed that she had <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> put out her Candle into the Candlestick, nor burnt it, but pulled it out, and hid the Candlestick; and from the man<g ref="char:EOLhyphen"/>ner of her Carriage used when she perceived she was su<g ref="char:EOLhyphen"/>spected, he positively Charged the said <hi>Oxley</hi> with Firing his House, and caused her to be kept safe all that night: And the next day being Charged by Neighbours with Firing the House, she at last Confessed the same, by set<g ref="char:EOLhyphen"/>ting the Press in the Closet and his Papers on Fire about Twelve of the Clock when he and his Family were a sleep. And he said, that she the said <hi>Oxley,</hi> might have gone out at a Back Door of his House, and carryed away any of his Goods and Plate, if she pleased at any hour in the night, without Firing his House, the Key of the Back Door lying in the Kitchin, and laid there by her self. And he said no<g ref="char:EOLhyphen"/>thing of value was found in the said <hi>Oxleys</hi> pack made up by her as aforesaid, but her own things.</p>
+            <p>
+               <hi>Elizabeth Oxley</hi> upon her Examination said; that about <hi>Michaelmas</hi> last she became acquainted with <hi>Nicholas Stubbs,</hi> who had several times used many perswasions to turn h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Papist; and after her shewing a liking to it, and that he sup<g ref="char:EOLunhyphen"/>supposed she embraced that perswasion; in his Discourse <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> her at several times, he told her, that before the 28. <hi>h.</hi>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <hi>June</hi> next, she should see all the Protestants destroyed that were in <hi>England;</hi> that the <hi>Pope</hi> should be King over <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that all that would turn to the Popish Religion should live far better then now they did, that all the Land were Hereticks, and it were a Meritorious Act to destroy them, and that all such as were Papists should have Marks upon their Hats whereby to distinguish them from Pro<g ref="char:EOLunhyphen"/>testants, that they might not be destroyed amonst them: Adding, that the Nation do believe that all things will b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> over before the <hi>23th.</hi> day of <hi>June,</hi> but they would be d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ceived, for all should be destroyed at or before that ti<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> That the Duke of <hi>York</hi> was the bravest Prince living, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="4" facs="tcp:200400:4"/> that he was gone out of the Kingdom least the Hereticks should cut off his Head, and he would not return till they were destroyed; that the Lords in the <hi>Tower</hi> would not one of them suffer, for they would come off well enough, being to be tryed by the Lords; and that the Scaffolds were set up but for fashon sake. That she telling the said <hi>Stubbs</hi> that she was Hired to Live with one Mr. <hi>Bird</hi> about the middle of <hi>Fetter-lane,</hi> he used perswasions to her at several times to set Fire on her Masters House; telling her, if she would do it, he would give her 5 <hi>l.</hi> and gave her half a Crown, and said, he would have other Houses in <hi>Holbourn</hi> Fired at the same time by others: That she being with the said <hi>Stubbs</hi> on <hi>Sunday</hi> before the said Fire, promised to Fire her Masters House on <hi>Thursday</hi> or <hi>Friday</hi> night following, and accordingly on <hi>Thursday</hi> night she took a Candle and set Fire to her Masters Papers in his Studdy which were in a kind of a Press; and they being on a Light Fire, she shut the Doors and went up Stairs into her own Chamber in the Top of the House, and packed up her own Things, and Undressed her self, least her Master should suspect her, and there stayed till a great Knocking was at the Door, and the Watchmen crying out Fire; whereupon she run down Stairs and cryed out Fire, and her Master gave her the Keys to open the Door; which done, all hands were imployed to quench the Fire. And she saith, she did not set Fire on her Masters House out of any Malice to him, nor with in<g ref="char:EOLhyphen"/>tent to Rob him, but meerly to carry on the Design which <hi>Stubbs</hi> had proposed to her, and out of hopes of his Re<g ref="char:EOLhyphen"/>ward.</p>
+            <p>
+               <hi>Nicholas Stubbs</hi> upon his Examination, owns, and sets forth to have used such Discourse to the said <hi>Elizabeth</hi> as she declareth in her Examination; and saith, he did per<g ref="char:EOLhyphen"/>swade her to Fire her Masters House, and was to give her five Guineys for doing it, besides half a Crown in hand: And saith, that one Father <hi>Gyfford</hi> a Priest and his Confessor had
+<pb n="5" facs="tcp:200400:4"/> put him on this business, and told him it was no sin to Fire all the Houses of <hi>Hereticks</hi> and <hi>Hugonites.</hi>
+            </p>
+            <p>That he Acquainted <hi>Flower</hi> alias, <hi>Darby,</hi> a Barber in <hi>Ger<g ref="char:EOLhyphen"/>man-street,</hi> and one <hi>Roger</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> another <hi>Irish</hi> man that Lodged at the Coach and Horses in the same Street. That the said Father <hi>Gyfford</hi> promised him 100 <hi>l.</hi> for the same, and told him he was to have the Money from the Church. That they used to meet the said <hi>Gyfford</hi> and other two per<g ref="char:EOLhyphen"/>sons in St. <hi>James-fields</hi> in the dark of the Evening, and to Discourse of these matters; and that the several Informa<g ref="char:EOLhyphen"/>tions that he had given the said <hi>Elizabeth Oxley,</hi> he had from the said Father <hi>Gyfford;</hi> and saith <hi>Flower</hi> and <hi>Roger</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> told the said <hi>Stubbs,</hi> they would carry on the said Fire, and that they had Fire Balls for that purpose, and that they would Fire other Houses in <hi>Holbourn</hi> at the same time: That he was at the Fire in the <hi>Temple,</hi> but was not in<g ref="char:EOLhyphen"/>gaged to do any thing in it. And said, that <hi>Gyfford</hi> told him that there were <hi>English, French</hi> and <hi>Irish</hi> Roman Ca<g ref="char:EOLhyphen"/>tholicks enough in <hi>Lordon</hi> to make a very good Army; and that the King of <hi>France</hi> was coming with 60000 men, under pretence to shew the <hi>Dauphin</hi> his Dominions; but it was to lay his men at <hi>Deep, Bulloign, Callis</hi> and <hi>Dunkirk,</hi> to be in an hours warning to be Landed in <hi>England,</hi> and he doubted not but it would be by the middle of <hi>June,</hi> and by that time all the Catholicks here will be in readiness; all were to rise in order to bring him in. That the Papists here were to be distinguished by Marks in their Hats; that the said Father <hi>Gyfford</hi> doubted not but he should be an Abbot or a Bishop when the work was over, for the good service he hath done. That at their meeting Father <hi>Gyfford</hi> used to tell them, it was no more sin to Kill a Heretick then a Dog, and that they did God good service in doing what Mischiefs they could by Firing their Houses. That it was well Sir <hi>Ed<g ref="char:EOLhyphen"/>mondberry Godfrey</hi> was Murdered, for he was their Devil<g ref="char:EOLhyphen"/>lish Enemy; That <hi>Coleman</hi> was a Saint in Heaven for what
+<pb n="6" facs="tcp:200400:5"/> he had done. And saith, he is fearful he shall be Murther<g ref="char:EOLhyphen"/>ed for this Confession, Father <hi>Gyfford</hi> having Sworn him to Secresie, and told him he should be Damned if he made any Discovery, and should be sure to be Killed; and that he should take the Oaths because he was a House-keeper, and that it was no sin: And saith, that <hi>Gyfford</hi> and <hi>Roger</hi> told him, when their Forces meet about the middle of <hi>June</hi> then have at the—</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:200400:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
